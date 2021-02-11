@@ -14,4 +14,4 @@ Instructors:
 
 [Data Science for Sustainable Goal Development Conference](https://www.indodataweek.com/agenda) - November 16, 2020
 
-<img src="https://media-exp1.licdn.com/dms/image/C5622AQFqQlXm-fds7w/feedshare-shrink_1280-alternative/0/1603289118675?e=1610582400&v=beta&t=kQ_oYrS4s5dSn-B7Q5LlxM4gxPLZ_v-r-4ev5x9yF8s" width="500">
+<img src="https://scontent.ffcm1-1.fna.fbcdn.net/v/t1.0-9/122144205_173808654347657_5398820702792337261_n.jpg?_nc_cat=110&ccb=3&_nc_sid=9e2e56&_nc_ohc=uSCqRGhXUhYAX-wmKQP&_nc_ht=scontent.ffcm1-1.fna&oh=51a09aafbbd974792c45ba5f06b36743&oe=604AAF7B" width="500">
